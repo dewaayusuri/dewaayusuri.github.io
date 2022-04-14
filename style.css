@@ -1,0 +1,33 @@
+
+
+
+#container1 {
+    height: 40px;
+    width: 100%;
+    background-color:rgb(251, 217, 25)
+}
+#container2 {
+    height: 40px;
+    width: 100%;
+    background-color:blue
+}
+#container6 {
+    height: 300px;
+    width: 100%;
+    background-color:rgb(240, 186, 106)
+}
+#container3 {
+    height: 40px;
+    width: 100%;
+    background-color:violet
+}
+#container4 {
+    height: 40px;
+    width: 100%;
+    background-color:aqua
+}
+#container5 {
+    height: 40px;
+    width: 100%;
+    background-color:blanchedalmond
+}
